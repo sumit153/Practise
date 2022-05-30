@@ -2,3 +2,4 @@ This is my first file
 File changed
 File changed 1
 File changed 2
+File changed 3
